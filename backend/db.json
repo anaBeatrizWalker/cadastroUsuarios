@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Ana Beatriz da Conceição Walker",
+        "email": "anabeatriz@ana.com.br"
+    }, {
+        "id": 2,
+        "name": "Gustavo Santos de Brito",
+        "email": "gustavo@santos.com.br"
+    }]
+}
