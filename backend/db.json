@@ -1,24 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
       "name": "Ana Beatriz da Conceição Walker",
-      "email": "anabeatriz@ana.com.br"
+      "email": "anaanaana@ana.com",
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Gustavo Santos de Brito",
-      "email": "gustavo@santos.com.br"
-    },
-    {
-      "name": "Ana Beatriz da Conceição Walker",
-      "email": "anabeatrizwalker00@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "Claudia",
-      "email": "claudiaclaudia@clau.com",
-      "id": 4
+      "email": "gustagusta@gusta.com",
+      "id": 2
     }
   ]
 }
