@@ -4,7 +4,7 @@ import Header from './Header'
 
 export default props =>
     <React.Fragment>
-        <Header/>
+        <Header {...props}/> {/*Recebe as propriedades passadas em App.jsx*/}
         <main className='content'>
             Conteúdo
         </main>
