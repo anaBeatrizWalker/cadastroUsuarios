@@ -6,6 +6,13 @@ aside.logo{
 }
 
 aside.logo img{
-    padding: 0px 15px;
+    padding: 10px 15px;
     width: 100%;
+}
+
+/*Breakpoint Small*/
+@media(max-width: 576px) {
+    aside.logo img {
+        width: 350px;
+    }
 }
