@@ -1,11 +1,24 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Ana Beatriz da Conceição Walker",
-        "email": "anabeatriz@ana.com.br"
-    }, {
-        "id": 2,
-        "name": "Gustavo Santos de Brito",
-        "email": "gustavo@santos.com.br"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Ana Beatriz da Conceição Walker",
+      "email": "anabeatriz@ana.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Gustavo Santos de Brito",
+      "email": "gustavo@santos.com.br"
+    },
+    {
+      "name": "Ana Beatriz da Conceição Walker",
+      "email": "anabeatrizwalker00@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Claudia",
+      "email": "claudiaclaudia@clau.com",
+      "id": 4
+    }
+  ]
 }
